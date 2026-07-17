@@ -1,0 +1,27 @@
+node_modules
+
+# Next.js
+.next/
+out/
+
+# Production builds
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env files
+.env
+.env.*
+
+# OS / Editor
+.DS_Store
+.idea/
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
+.gitignore
